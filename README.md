@@ -8,9 +8,9 @@ This repository is all about exploring and playing with Panel Data Structures, p
 
 ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-🐼-lightgrey?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/🔄_Data_Transformation-orange?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/📊_Data_Analysis-blue?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/📈_Data_Visualization-purple?style=for-the-badge)
 
 
 Learn how to:
