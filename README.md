@@ -8,8 +8,9 @@ This repository is all about exploring and playing with Panel Data Structures, p
 
 ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-🐼-lightgrey?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-🔢-orange?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-📊-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge)
 
 
 Learn how to:
